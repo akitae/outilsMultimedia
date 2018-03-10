@@ -1,0 +1,22 @@
+﻿Projet 1 : Dossier de veille technologique
+------------------------------------------
+
+Travail à réaliser collectivement à partir d'un sujet choisi au sein de la liste fournie
+
+Etapes suggérées : 
+
+- Identification des sources d'information
+- Recherches autour de la thématique choisie (collecte et sélection des données)
+- Analyse des données recueillies
+- Conception d'un dossier synthétique
+- Réalisation d'un site web permettant la diffusion des résulats de la veille
+- Le site devra intégrer au maximum les technologies vues en cours
+
+Le site doit être fourni soit sous la forme d'une archive compressée
+
+Les sources doivent également être fournies
+
+Travail à rendre au plus tard le 31 janvier
+
+Il faut qu'il y est un travail d'observation et notre rendu à nous. 
+Il faut que le site soit responsive, a peu près esthétique, une grille de mise en forme => propre et sympa

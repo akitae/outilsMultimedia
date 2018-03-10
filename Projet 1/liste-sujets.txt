@@ -1,0 +1,33 @@
+﻿Présenter sous la forme d'un site web 
+- responsible web design
+- file de fer et gabarie réaliser par illustrator
+- on peut réaliser sous forme de 5/10 pages statiques
+- code propre
+- passe W3C
+
+
+Travail de groupe par 2 ou par 3
+il faut tout garder, les fichiers psd 
+
+Choisi : HTML et CSS III
+
+------------------------------------------
+Projet 1 : Dossier de veille technologique
+------------------------------------------
+
+Liste des sujets : 
+
+- Projet 1.01 : jQuery I
+- Projet 1.02 : Le responsive web design I
+Quels sont les limites
+- Projet 1.03 : Le flat design
+- Projet 1.04 : Les grilles de mise en forme
+- Projet 1.05 : L'accessibilité d'un site web
+- Projet 1.06 : Le référencement d'un site web II
+- Projet 1.07 : HTML et CSS III                              <=
+tendance du moment ? nouvelle balise ?
+- Projet 1.08 : LESS
+versus CSS
+- Projet 1.09 : Canvas
+- Projet 1.10 : Les logiciels libres pour le traitement d'image 
+- Projet 1.11 : Comparatif des frameworks JavaScript I  

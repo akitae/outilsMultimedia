@@ -1,0 +1,20 @@
+﻿Projet 2 : Réalisation d'une interface graphique web
+----------------------------------------------------
+
+Travail à réaliser individuellement et répondant aux critères suivants :
+
+- Wireframe (maquette fonctionnelle)
+- Interface sous Adobe Illustrator
+- Retouche d'images sous Adobe Photoshop
+- Grille de mise en forme à 12 colonnes 
+- Flat design
+- Responsive webdesign 
+- Création du site web sous Bootstrap 4
+- HTML 5 
+- CSS 3 
+- jQuery 3
+- Accessibilité WCAG 2.0
+
+Les sources doivent être fournies
+
+Travail à rendre au plus tard le 31 janvier
